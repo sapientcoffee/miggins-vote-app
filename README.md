@@ -14,6 +14,10 @@ This is an example voting app to be used as part of a number of demos, at the mo
 
 At the moment it is based around Docker compose and I have been running and testing on Docker for Mac. I have all the files I have been working on here at the moment however I will start to tidy up once I have a working version I am happy with.
 
+The purpose of the app is to present a page where uses can vote for their preferred pie flavour as well as providing an admin page to view the results. It will also provide details of the container that the app is running on.
+
+![https://res.cloudinary.com/dalqykxs4/image/upload/v1474985701/Miggins_Vote_Example_ukm8gz.png](Vote app)
+
 Getting started
 ---------------
 
