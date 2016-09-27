@@ -16,7 +16,7 @@ At the moment it is based around Docker compose and I have been running and test
 
 The purpose of the app is to present a page where uses can vote for their preferred pie flavour as well as providing an admin page to view the results. It will also provide details of the container that the app is running on.
 
-![https://res.cloudinary.com/dalqykxs4/image/upload/v1474985701/Miggins_Vote_Example_ukm8gz.png](Vote app)
+![Vote app](https://res.cloudinary.com/dalqykxs4/image/upload/v1474985701/Miggins_Vote_Example_ukm8gz.png)
 
 Getting started
 ---------------
@@ -42,4 +42,4 @@ Architecture
 
 Credit
 ------
-I have to give credit to a number of different sources. Firstly I used as the base of my voting app something that [https://github.com/docker/example-voting-app](Docker created) and adapted a bootstrap theme called [https://github.com/BlackrockDigital/startbootstrap-freelancer](freelancer).
+I have to give credit to a number of different sources. Firstly I used as the base of my voting app something that [Docker created](https://github.com/docker/example-voting-app) and adapted a bootstrap theme called [freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer).
