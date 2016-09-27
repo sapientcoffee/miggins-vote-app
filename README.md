@@ -16,7 +16,7 @@ At the moment it is based around Docker compose and I have been running and test
 
 The purpose of the app is to present a page where uses can vote for their preferred pie flavour as well as providing an admin page to view the results. It will also provide details of the container that the app is running on.
 
-![Vote app](https://res.cloudinary.com/dalqykxs4/image/upload/v1474985701/Miggins_Vote_Example_ukm8gz.png)
+![Vote app](http://res.cloudinary.com/dalqykxs4/image/upload/v1474986673/Miggins_Vote_App_FE_utaeho.png)
 
 Getting started
 ---------------
